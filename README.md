@@ -52,7 +52,7 @@ The file name is the document ID (starting from 1).
 The first line of each file contains the full URL of the page.
 The second line contains the depth of the page.
 The remaining content is the raw HTML of the page.
-
+```bash
 Example output:
 http://example.com
 0
@@ -67,7 +67,7 @@ http://example.com
     ...
 </body>
 </html>
-
+```
 ## Functional Overview
 
 ## Main Functions:
